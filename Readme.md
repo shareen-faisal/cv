@@ -2,10 +2,6 @@
 
 This is my **personal CV website**, created to showcase my skills, projects, and contact information.
 
-### 🔗 Live Website
-
-👉 [View Portfolio](https://shareen-faisal.github.io/cv/)
-
 ---
 
 ### 📧 Contact
