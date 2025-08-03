@@ -1,6 +1,15 @@
-Thanks for downloading this template!
+# 📄 Shareen Faisal – Personal Portfolio
 
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my **personal CV website**, created to showcase my skills, projects, and contact information.
+
+### 🔗 Live Website
+
+👉 [View Portfolio](https://shareen-faisal.github.io/cv/)
+
+---
+
+### 📧 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/shareen-faisal-633b1a33b)
+- [GitHub](https://github.com/shareen-faisal)
+
